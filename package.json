@@ -1,0 +1,14 @@
+{
+  "name": "telegram-youtube-dl-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^4.4.1",
+    "ytdl-core": "^4.9.1"
+  }
+}
