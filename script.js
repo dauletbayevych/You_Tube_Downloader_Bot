@@ -44,7 +44,7 @@ const parseId = (ctx) => {
     return ctx.match[0].split("-")[1];
 };
 
-const bot = new Telegraf("6061393200:AAFEh6pOMRvlmCY4Kj9cO-BxguNwjDxgZew");
+const bot = new Telegraf("5895872462:AAGqVskpssuUx5DOYJMZkdyEiH9kxJSs5uw");
 bot.start((ctx) => {
     ctx.reply("🪁 Welcome\n=============\n🖼️ Paste your YouTube URL in the textbox.");
 });
